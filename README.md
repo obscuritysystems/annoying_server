@@ -37,4 +37,5 @@ Use make clean to delete and binary so you can recompile
 
 you@server:/folder/path# make clean
 
+A great thing about this is it displays to the terminal what was sent by the remote connection so you can see what exploits people are using.
 
